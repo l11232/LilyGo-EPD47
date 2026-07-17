@@ -39,7 +39,7 @@
     {
       "owner": "lewisxhe",
       "name": "SensorLib",
-      "version": "0.1.9"
+      "version": "0.4.1"
     }
   ],
   "examples": ["examples/*/*.ino"],
