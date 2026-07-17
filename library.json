@@ -44,6 +44,6 @@
   ],
   "examples": ["examples/*/*.ino"],
   "frameworks": ["arduino"],
-  "platforms": ["espressif32"],
+  "platforms": ["esp32"],
   "headers": "epd_driver.h"
 }
