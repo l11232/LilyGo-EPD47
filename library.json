@@ -40,6 +40,12 @@
       "owner": "lewisxhe",
       "name": "SensorLib",
       "version": "0.4.1"
+    },
+    {
+      "name": "SPI"
+    },
+    {
+      "name": "Wire"
     }
   ],
   "examples": ["examples/*/*.ino"],
