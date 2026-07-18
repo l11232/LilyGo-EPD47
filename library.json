@@ -32,6 +32,12 @@
   },
   "dependencies": [
     {
+      "name": "SPI"
+    },
+    {
+      "name": "Wire"
+    },
+    {
       "owner": "lennarthennigs",
       "name": "Button2",
       "version": "2.3.2"
@@ -40,12 +46,6 @@
       "owner": "lewisxhe",
       "name": "SensorLib",
       "version": "0.4.1"
-    },
-    {
-      "name": "SPI"
-    },
-    {
-      "name": "Wire"
     }
   ],
   "examples": ["examples/*/*.ino"],
