@@ -32,12 +32,6 @@
   },
   "dependencies": [
     {
-      "name": "SPI"
-    },
-    {
-      "name": "Wire"
-    },
-    {
       "owner": "lennarthennigs",
       "name": "Button2",
       "version": "2.3.2"
